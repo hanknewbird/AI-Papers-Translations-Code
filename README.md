@@ -1,5 +1,7 @@
 # AI-Papers-Translations-Code
 
+# [项目已迁移到此处](https://github.com/hanknewbird/SpeedPaper)
+
 ## 项目简介
 
 AI-Papers-Translations-Code 是一个专为深度学习领域的新手和爱好者量身打造的项目，它以一种独特的方式，让复杂的研究论文变得更加平易近人。通过精心准备的中文翻译和配套的PyTorch代码，AI-Papers-Translations-Code 引领读者轻松迈入深度学习的殿堂，深入探索每篇论文的精髓。
